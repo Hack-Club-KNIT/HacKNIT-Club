@@ -1,7 +1,7 @@
 # HacKNIT-Club
 https://www.hacknitclub.tech/
 
-## WE ARE LIVE
+## WE ARE LIVE :tada:
 
 
 Join Discord Server to contribute-
