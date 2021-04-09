@@ -1,5 +1,5 @@
 # HacKNIT-Club
-Club Website
+https://www.hacknitclub.tech/
 
 ## WE ARE LIVE
 
