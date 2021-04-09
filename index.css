@@ -1,0 +1,70 @@
+html,body {
+height: 100%;
+width: 100%;
+margin: 0px;
+padding: 0px;
+}
+.logo {
+    /* background-image: url("Resourses/flag-orpheus-top.svg"); */
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: contain;
+    cursor: pointer;
+    flex-shrink: 0;
+    width: 172px;
+    height: 100px;
+    transition: transform 0.1875s cubic-bezier(0.375, 0, 0.675, 1) 0s;
+    transform-origin: left top 0px;
+    transform: scale(0.875);
+}
+.logo:hover, .logo:focus {
+    animation: animation-472zo1 0.5s linear infinite alternate;
+    animation-name: animation-472zo1;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: none;
+    animation-play-state: running;
+}
+* {
+    box-sizing: border-box;
+}
+
+#ComingSoon {
+    object-fit: cover;
+    position: fixed;
+    /* margin: auto; */
+    /* min-width: 100%;
+    min-height: 100%; */
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+}
+.head {
+    position: relative;
+    top: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding-left: 10px;
+}
+.foot {
+    position: relative;
+    left: 84%;
+    top: 65%;
+    color: #f1f1f1;
+    width: 60%;
+    /* padding: 2px; */
+}
+.contact {
+    text-align: left;
+    font-family: 'Caveat', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.connect {
+    padding-right: 25px;
+}
