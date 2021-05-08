@@ -1,5 +1,5 @@
 html,body {
-height: 100%;
+height: 90%;
 width: 100%;
 margin: 0px;
 padding: 0px;
@@ -43,6 +43,8 @@ padding: 0px;
     top: 0px;
     bottom: 0px;
     left: 0px;
+    padding: .5px;
+    border-radius: 5px;
 }
 .head {
     position: relative;
@@ -52,11 +54,11 @@ padding: 0px;
     padding-left: 10px;
 }
 .foot {
-    position: relative;
-    left: 84%;
-    top: 65%;
+    position: fixed;
+    left: 84.5%;
+    bottom: 1%;
     color: #f1f1f1;
-    width: 60%;
+    width: 14%;
     /* padding: 2px; */
 }
 .contact {
@@ -66,5 +68,26 @@ padding: 0px;
     font-size: 30px;
 }
 .connect {
-    padding-right: 25px;
+    padding-right: 15px;
+}
+@media only screen and (max-width:768px){
+    .foot {
+        position: fixed;
+        left: 75%;
+        top: 60.5%;
+        color: #f1f1f1;
+        width: 30%;
+        /* padding: 2px; */
+    }
+    .contact {
+        text-align: left;
+        font-weight: bolder;
+        font-family: 'Caveat', cursive;
+        font-family: 'Playfair Display', serif;
+        font-size: 20px;
+    }
+    .connect {
+        padding-right: 10px;
+        size: 10px;
+    }
 }
