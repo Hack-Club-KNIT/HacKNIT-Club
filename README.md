@@ -1,7 +1,7 @@
 # HacKNIT-Club
 https://www.hacknitclub.tech/
 
-knit.hackclub.com
+https://knit.hackclub.com/
 
 ## WE ARE LIVE :tada:
 
