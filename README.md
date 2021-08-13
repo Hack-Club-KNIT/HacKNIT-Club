@@ -1,10 +1,5 @@
 # HacKNIT-Club
-https://www.hacknitclub.tech/
-
-knit.hackclub.com
-
-## WE ARE LIVE :tada:
-
+Club Website
 
 Join Discord Server to contribute-
-https://discord.gg/2KvHM3PuZR
+https://discord.gg/dVFMxtCmPJ
