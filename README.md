@@ -1,6 +1,8 @@
 # HacKNIT-Club
 https://www.hacknitclub.tech/
 
+knit.hackclub.com
+
 ## WE ARE LIVE :tada:
 
 
